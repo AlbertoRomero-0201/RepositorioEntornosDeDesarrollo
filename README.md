@@ -1,9 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20test%20&height=300&fontSize=100&textBg=true)
 
 ```yaml
+#include iostream
+using namespace std;
+
 Int main(){
 
-name = Alberto;
+Name = Alberto;
+Career = Software developer;
+Status = student;
+
+cout >> "Estudiante de primer año de desarrollo de aplicaciones multiplataforma" >> endl;
+
+Experiencia = 1_año_de_Ing_Software + 1er_año_de_DAM;
 
 return 0;
 }
